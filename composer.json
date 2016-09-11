@@ -1,0 +1,14 @@
+{
+    "name": "skyling/laravel-yunpian",
+    "description": "laravel 云片网接口",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "frenlee",
+            "email": "frenlee710@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle" : "^6.2.*"
+    }
+}
